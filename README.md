@@ -1,6 +1,6 @@
 # Phishing-email-analysis
 
-# 🛡️ Cybersecurity Internship – Task 2: Phishing Email Analysis
+# 🛡️ Cybersecurity Internship – Task 2
 
 ## ✅ Objective:
 Analyze a real phishing email and identify key traits used in email-based social engineering attacks.
